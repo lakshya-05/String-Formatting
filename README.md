@@ -14,3 +14,5 @@ For printing the values, use:
 - Octal -> oct(i)
 - Hexadecimal (capitalized) -> hex(i)
 - Binary -> bin(i)
+
+For spacing, use ".rjust()" function.
